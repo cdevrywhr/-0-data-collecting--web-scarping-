@@ -1,0 +1,3 @@
+Company Name: 3DPLMSoftwareSolutionsLtd 
+Required Skils: orchestration,docker,git,devops,api,mongodb,cache,python,nosql,cassandra,infrastructure,productionenvironment,gateway 
+More Info: https://www.timesjobs.com/job-detail/cloudops-engineer-3d-plm-software-solutions-ltd-pune-4-to-7-yrs-jobid-JELVGB0zWupzpSvf__PLUS__uAgZw==&source=srp
